@@ -47,7 +47,7 @@ The agent classifies intent, retrieves and reranks the relevant tables, generate
 
 | Layer | Technology |
 |-------|-----------|
-| Agent / LLM | LangGraph, LangChain, DeepSeek (OpenAI-compatible) |
+| Agent / LLM | LangGraph, LangChain, OpenAI |
 | Retrieval | ChromaDB, multilingual-e5 embeddings, hybrid retrieval + rerank |
 | Backend | FastAPI, async SQLAlchemy, MySQL |
 | Agent memory | LangGraph checkpointer on PostgreSQL |
