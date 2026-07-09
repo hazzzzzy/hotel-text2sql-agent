@@ -59,7 +59,7 @@ The agent classifies intent, retrieves and reranks the relevant tables, generate
 - LLM calls are rate-limited and preset questions are cached, so the public demo stays cheap to run.
 - **Source code is private** — this repository is a case study (write-up, architecture, screenshots). Happy to walk through the implementation on request.
 
-**[▶ Try the live demo → pms.bro9.vip](https://pms.bro9.vip)**
+**[▶ Live Demo](https://pms.bro9.vip)**
 
 ## Who built this
 
